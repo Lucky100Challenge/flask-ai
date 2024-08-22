@@ -1,0 +1,2 @@
+Flask==2.0.2
+langchain_google_genai==0.1.0
